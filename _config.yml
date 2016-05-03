@@ -1,0 +1,28 @@
+name: science-club-rilly
+favicon: null
+layout_spectrum: 0.015796830412000418
+typography_spectrum: 0.8724538187962025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.309972366085276
+  lightness: 0.9457802746910602
+  saturation: 0.32313381927087903
+  rhythmicContrast: 0.11591770872473717
+purpose: []
